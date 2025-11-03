@@ -5,4 +5,3 @@ tugas latihan ukl soal 1 mudah yang berisi 2 soal
 jika Jarak kurang dari atau sama dengan 10 km: Rp 4250 per kg
 Jarak lebih dari 10 km: Rp 6000 per kg
 Volume paket akan dikenakan biaya Rp 50.000,- ketika volume melebihi 100 cm^3.
-2. program yang dibuat untuk mengetahui suatu bilangan itu genap atau ganjil.
